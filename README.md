@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2 align="left">Hi 👋! I'm Jeff and I'm a Fullstack Laravel Developer, from Brazil</h2>
 
 ###
